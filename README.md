@@ -1,17 +1,19 @@
 ## ¿Quien Soy?
 <br/>
 
+<p>Me caracterizo por ser una persona  en constante búsqueda de nuevos aprendizajes además de expandir mis horizontes. Desde inicios de mi adolescencia, siento un gran interés por la programación; con el pasar de los años y las capacitaciones, tanto mi pasión como mi interés en continuar aprendiendo en el área de la programación han ido en aumento, a tal punto que no tengo dudas al decir que la programación es una parte muy importante de mi vida, y es a lo que me gustaría dedicarme por el resto de mis días.</p>
+
+## ¿Qué Hago?
+<br/>
+
 <p>Como programador Full-Stack, soy capaz de llevar a cabo proyectos relacionados con el Desarrollo Web, con una calidad y rapidez sobresalientes.
 
 Como persona, me gusta trabajar en equipo y crear un buen ambiente de trabajo, en el que pueda aportar tanto mis conocimientos como mi buen humor.</p>
 
-## ¿Qué Hago?
-
-<br/>
-
 ## ¿A dónde me dirijo?
-
 <br/>
+
+<p>Como actualmente estoy en búsqueda de un puesto de trabajo, mi objetivo es conseguir mi primer experiencia laboral, y si tengo suerte, que mi estadía en esa empresa sea permanente</p>
 
 ## ¿Qué Tecnologías Uso?
 <table><tr><td valign="top" width="33%">
