@@ -53,5 +53,6 @@ Como persona, me gusta trabajar en equipo y crear un buen ambiente de trabajo, e
 <div align="center">
 <a href="https://linkedin.com/in/jorge-britos-3862a8210/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+  <p>e-mail: britosj30@gmail.com</p>
 </div>  
